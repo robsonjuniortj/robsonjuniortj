@@ -15,7 +15,7 @@
 
 - 📄 Sobre mim: [https://www.linkedin.com/in/robson-oliveira-gomes-junior-729600190/](https://www.linkedin.com/in/robson-oliveira-gomes-junior-729600190/)
 
-- ⚡ Hobby **Gosto muito de Desenhar, todos os meus desenhos estão no link: https://www.instagram.com/_robson_junior_tj/**
+- ⚡ Algo sobre mim: **Gosto muito de Desenhar, todos os meus desenhos estão Disponíveis em: https://www.instagram.com/_robson_junior_tj/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
