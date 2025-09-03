@@ -22,3 +22,11 @@ Tenho experiência em **Java, React.js, Spring Boot, .NET, C#, JavaScript, MySQL
 
 ---
 
+## 🛠️ Tecnologias & Ferramentas
+- **Frontend:** React, JavaScript, TypeScript, HTML, CSS  
+- **Backend:** Java (Spring Boot), .NET (C#), Node.js  
+- **Banco de Dados:** MySQL, PostgreSQL, MongoDB  
+- **Outros:** Git, GitHub, Postman, Figma  
+
+---
+
