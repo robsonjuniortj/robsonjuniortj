@@ -9,6 +9,6 @@ Tenho experiência em **Java, React.js, Spring Boot, .NET, C#, JavaScript, MySQL
 
 🎓 Formação Full Stack – RecodePro (2024)  
 🚀 Atualmente: Programa Desenvolve + Grupo Boticário (jun–out/2025)  
-🌎 Idiomas: Inglês (intermediário-avançado) | Espanhol (Nível C1)
+🌎 Idiomas: Inglês (intermediário-avançado) | Espanhol (C1)  
 
 ---
